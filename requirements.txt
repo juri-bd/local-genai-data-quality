@@ -2,3 +2,5 @@ pandas
 duckdb
 ollama
 jinja2
+streamlit
+openpyxl
